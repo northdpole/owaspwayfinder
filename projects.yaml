@@ -1,0 +1,75 @@
+
+---
+projects:
+  - href: "https://owasp.org/www-project-amass/"
+    name: OWASP Amass
+    step: [Verification]
+    group: Tool
+  - href: "https://owasp.org/www-project-application-security-verification-standard/"
+    name: OWASP Application Security Verification Standard
+    step: [Culture Building and Process Maturing]
+    group: ""
+  - href: "https://owasp.org/www-project-cheat-sheets/"
+    name: OWASP Cheat Sheet Series
+    step: [Implementation]
+    group: Documentation
+  - href: "https://owasp.org/www-project-csrfguard/"
+    name: OWASP CSRFGuard
+    step: [Implementation]
+    group: Secure Libraries
+  - href: "https://owasp.org/www-project-cyclonedx/"
+    name: OWASP CycloneDX
+    step: [Implementation]
+    group: Tool
+  - href: "https://owasp.org/www-project-defectdojo/"
+    name: OWASP Defectdojo
+    step: [Verification]
+    group: Tool
+  - href: "https://owasp.org/www-project-dependency-check/"
+    name: OWASP Dependency-Check
+    step: [Implementation]
+    group: Tool
+  - href: "https://owasp.org/www-project-dependency-track/"
+    name: OWASP Dependency-Track
+    step: [Implementation]
+    group: Tool
+  - href: "https://owasp.org/www-project-juice-shop/"
+    name: OWASP Juice Shop
+    step: [Training/Education]
+    group: ""
+  - href: "https://owasp.org/www-project-mobile-security-testing-guide/"
+    name: OWASP Mobile Security Testing Guide
+    step: [Verification]
+    group: Guide
+  - href: "https://owasp.org/www-project-modsecurity-core-rule-set/"
+    name: OWASP ModSecurity Core Rule Set
+    step: [Operation]
+    group: ""
+  - href: "https://owasp.org/www-project-owtf/"
+    name: OWASP OWTF
+    step: [Verification]
+    group: Tool
+  - href: "https://owasp.org/www-project-samm/"
+    name: OWASP SAMM
+    step: [Culture Building and Process Maturing]
+    group: Guide
+  - href: "https://owasp.org/www-project-security-knowledge-framework/"
+    name: OWASP Security Knowledge Framework
+    step: [Requirements]
+    group: ""
+  - href: "https://owasp.org/www-project-security-shepherd/"
+    name: OWASP Security Shepherd
+    step: [Training/Education]
+    group: ""
+  - href: "https://owasp.org/www-project-top-ten/"
+    name: OWASP Top Ten
+    step: [Training/Education]
+    group: ""
+  - href: "https://owasp.org/www-project-web-security-testing-guide/"
+    name: OWASP Web Security Testing Guide
+    step: [Verification]
+    group: Guide
+  - href: "https://owasp.org/www-project-zap/"
+    name: OWASP ZAP
+    step: [Verification]
+    group: Tool
